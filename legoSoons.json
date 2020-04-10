@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Pirates of Barracuda Bay",
+        "description": "Some nice description",
+        "setnumber": "21322",
+        "pieces": "2545",
+        "releasedate": "01-04-2020",
+        "comingsoon": true,
+        "images": [
+            {
+            "img": "https://www.bricktastic.nl/wp-content/uploads/2020/03/lego-21322-pirates-of-barracuda-bay-5-scaled-1.jpg"
+            },
+            {
+            "img": "https://imboldn.com/wp-content/uploads/2020/03/LEGO-Pirates-of-Barracuda-Bay-main.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Fiat 500",
+        "description": "Some nice description",
+        "setnumber": "10271",
+        "pieces": "960",
+        "releasedate": "01-03-2020",
+        "comingsoon": true,
+        "images": [
+            {
+                "img": "https://i.pinimg.com/originals/d7/0c/95/d70c952bb2254bda252895b9dab4e793.jpg"
+            },
+            {
+                "img": "https://i.ytimg.com/vi/eZCVu5u1PSg/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "title": "International Space Station",
+        "description": "Some nice description",
+        "setnumber": "21321",
+        "pieces": "864",
+        "releasedate": "01-02-2020",
+        "comingsoon": true,
+        "images": [
+            {
+                "img": "https://images.brickset.com/news/21321_Prod%20use%20this%20for%20the%20main%20set%20image.jpg"
+            },
+            {
+                "img": "https://ideascdn.lego.com/media/generate/lego_ci/fda526a5-9cce-45d1-a768-9bbfc73d6703/resize:800:450"
+            }
+        ]
+    }
+]

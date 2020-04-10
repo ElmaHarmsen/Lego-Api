@@ -1,0 +1,266 @@
+[
+    {
+        "type": "Yellow Faced",
+        "img": "head-dude-boxer.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-dude-casual.png"   
+    },
+    {
+       "type": "Yellow Faced",
+        "img": "head-dude-doctor.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-dude-elvis.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-dude-garage.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-dude-house.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-dude-sportman.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-elma.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-kid-glasses.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-kid-girl.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-woman-biker.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-woman-eyebrow.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-woman-garage.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-woman-gym.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-woman-mole.png"   
+    },
+    {
+        "type": "Yellow Faced",
+        "img": "head-woman-waitress.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-aragorn.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-aragorn-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-arthur.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-balin.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-bilbo.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-bilbo-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-bilbo-neutral.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-bilbo-sad.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-dwalin.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-fili.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-fili-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-frodo.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-frodo-sad.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-gandalf.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-gandalf-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-gimli.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-gimli-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-ginny.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-ginny-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-hermione.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-hermione-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-indiana-jones.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-ironman.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-legolas.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-legolas-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-merry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-merry-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-molly.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-pippin.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-pippin-scared.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-potter.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-potter-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-ron.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-ron-scared.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-samwise.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-samwise-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-sauron.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-sauron-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-snape.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-sparrow.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-sparrow-scared.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-strange.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-strange-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-thorin.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-thorin-angry.png"   
+    },
+    {
+        "type": "Skin Faced",
+        "img": "head-tonystark.png"   
+    },
+    {
+        "type": "Special Faced",
+        "img": "head-davyjones.png"   
+    },
+    {
+        "type": "Special Faced",
+        "img": "head-dude-creepy.png"   
+    },
+    {
+        "type": "Special Faced",
+        "img": "head-dobby.png"   
+    },
+    {
+        "type": "Special Faced",
+        "img": "head-homer.png"   
+    }
+]
