@@ -65,14 +65,6 @@ const legoFigSchema = new mongoose.Schema ({
 }, {collection: "LegoFigs"});
 const legoFig = mongoose.model("legoFig", legoFigSchema)
 
-const legocollectionSchema = new mongoose.Schema ({
-  name: String,
-  description: String,
-  img: String,
-  yourcollection: Boolean
-});
-const legoCollection = mongoose.model("legoCollection", legocollectionSchema)
-
 /**** Routes ****/
 
 // Returns all const
@@ -93,8 +85,11 @@ app.get('/api/pickafig', async(request, response) => {
   response.json(await legoFig.find({}));
 });
 
-app.get('/api/yourcollection', (request, response) => {
-  response.json(legocollection);
+app.post('/api/yourcollection', async (request, response) => {
+  const legoIds = request.body;
+  const legoSets = await legoSet.find().where('_id').in(legoIds).exec();
+  const legoSoons = await legoSoon.find().where('_id').in(legoIds).exec();
+  response.json(legoSets.concat(legoSoons));
 });
 
 app.get('/api/homepopularitem', async(request, response) => {
