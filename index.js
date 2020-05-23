@@ -92,6 +92,15 @@ app.post('/api/yourcollection', async (request, response) => {
   response.json(legoSets.concat(legoSoons));
 });
 
+app.post('/api/homeyourcollection', async(request, response) => {
+  const legoIds = request.body;
+  const legoSets = await legoSet.find().where('_id').in(legoIds).exec();
+  const legoSoons = await legoSoon.find().where('_id').in(legoIds).exec();
+  const results = legoSets.concat(legoSoons);
+  const randomset = Math.round(Math.random() * (results.length - 1))
+  response.json(results[randomset]);
+});
+
 app.get('/api/homepopularitem', async(request, response) => {
   const randomset = Math.round(Math.random() * (await legoSet.countDocuments({}) - 1))
   const allSets = await legoSet.find({});
